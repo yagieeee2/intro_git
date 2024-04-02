@@ -3,3 +3,5 @@ gitの練習
 追記テスト2
 test
 rm
+
+www
